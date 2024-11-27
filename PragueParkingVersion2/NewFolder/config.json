@@ -1,0 +1,7 @@
+﻿{
+  "TotalParkingSpots": 100,
+  "DefaultSpotSize": 1.0,
+  "AllowedVehicleTypes": [ "Car", "Motorcycle" ]
+}
+
+
